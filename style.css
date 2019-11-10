@@ -1,17 +1,13 @@
 html {
    background-color: #e0ffe0;
    }
-#your_schedule{
-  margin: 0;
-  padding-bottom: 40px;
-  padding-top: 40px;
-  background: #222;
-  font-family: monaco;
-  color: white;
-  text-shadow: 2px 2px black;
-  text-align: center;
-  font-size: 50px;
+
+
+p {
+     font-family: verdana;
+     font-size: 20px;
 }
+
 img {
   padding-top: 4px;
 }
@@ -22,6 +18,8 @@ margin: 0 auto;
 
 h1 {
 background: #55d6aa;
+text-decoration: underline;
+text-decoration: green underline wavy;
 }
 
 header::after {
