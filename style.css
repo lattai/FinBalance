@@ -31,6 +31,7 @@ header::after {
 content: '';
 display: table;
 clear: both;
+align-items: center;
 }
 
 
