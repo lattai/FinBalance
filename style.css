@@ -19,13 +19,9 @@ margin: 0 auto;
 
 h1 {
 
-text-decoration: underline;
+text-decoration: underline wavy;
 font-size: 50px;
 text-decoration:
-    inset 0 -0.075em white wavy,
-    inset 0 -0.1em green  wavy,
-    inset 0 -0.15em white wavy,
-    inset 0 -0.175em green  wavy;
 }
 
 header::after {
